@@ -1,3 +1,9 @@
+nagios-plugin-check-modbus (0.48.0) bookworm; urgency=medium
+
+  * Recompiled for bookworm
+
+ -- Przemyslaw Sztoch <przemyslaw@sztoch.pl>  Mon, 18 Mar 2024 11:29:46 +0100
+
 nagios-plugin-check-modbus (0.47-0.1) UNRELEASED; urgency=low
 
   * Initial release. 
